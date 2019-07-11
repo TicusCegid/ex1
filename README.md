@@ -1,4 +1,4 @@
 # update_clamav_rhel6
-Script pour serveur offline - permet l'upgrade and update de clamav sur RHEL6.
-Les rpm devront etre telecharges en local sur le serveur (separement).
+Script for offline server - upgrade and update clamav on RHEL6.
+rpm must be download manually in local.
 
